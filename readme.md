@@ -1,4 +1,4 @@
-# 🎵 Lyrics Typer
+# 🎵 Lyrics Player
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
@@ -6,7 +6,7 @@
 
 A stylish terminal-based lyrics display with typing animation effects. Create beautiful, animated lyric displays in your terminal with customizable speeds and formatting.
 
-![Demo Animation](https://via.placeholder.com/650x300?text=Lyrics+Typer+Demo)
+![Demo Animation](https://via.placeholder.com/650x300?text=Lyrics+Player+Demo)
 
 ## ✨ Features
 
